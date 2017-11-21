@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+.start {
+    background-image: url("images/achtergrond.jpg");
+    background-repeat: no-repeat;
+    background-position: centered;
+    background-size: 100%;
+}
+
+
+.button {
+	background-color: #1affff;
+	border: none;
+	color: black;
+	padding: 20px 40px;
+	text-align: center;
+	display: inline-block;
+	font-size: 20px;
+	margin: auto;
+	cursor: pointer;
+	border-radius: 5px;
+}
